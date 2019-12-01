@@ -67,4 +67,5 @@ As it was in insertion case let's take closer look at **AVL** and **STL map** di
 ## Querying - AVL Tree vs STL map
 ![chart (7)](https://user-images.githubusercontent.com/43823276/69920698-4c387700-148b-11ea-9073-371577b71d1a.png)
 At first glance the most intriguing fact is level of noise which is visible on charts. For sure it indicates that there were a lot of queries regarding words which were inserted deepely in tree but it's strange that it appears mostly before *200000* insertions. I also tried to think about characteristics of input file which was text of *Bible*, maybe older part of *Bible* had some characteristics which would explain it in more detail.
+
 However when it comes to differences between execution time of **AVL tree** and **STL tree** it seems that for this praticular input it seems that the average query is faster for **AVL tree**.
