@@ -22,7 +22,6 @@ void quickSort(IteratorType first, IteratorType last)
 			j--;
 		}
 	}
-	// cout << j - i << endl << endl;
 	quickSort(first, next(j));
 	quickSort(i, last);
 }
