@@ -1,6 +1,6 @@
-# AISDI - Algorithms and Data Structures
+# AlgoAnalysis
 ## About The Project
-This repository consists of analysis of algorithms and data structures such as sorting, dictionaries, pattern searching and pathfinding.
+This repository consists of analysis of **algorithms and data structures** such as sorting, dictionaries, pattern searching and pathfinding.
 
 For every problem I implement one or more algorithms and compare its efficency with their equivalence in [STL library](https://pl.wikipedia.org/wiki/Standard_Template_Library).
 
